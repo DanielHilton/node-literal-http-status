@@ -1,0 +1,12 @@
+{
+  "name": "node-literal-http-status",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A literal text to status number mapper for node.js",
+  "author": "Daniel Hilton",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "coffeescript": "^2.2.4"
+  }
+}
