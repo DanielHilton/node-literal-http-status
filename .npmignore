@@ -2,3 +2,4 @@ features/
 src/
 .git*
 .travis.yml
+.idea
