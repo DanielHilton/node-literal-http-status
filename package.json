@@ -5,7 +5,13 @@
   "description": "A literal text to status number mapper for node.js, designed for use with Gherkin + Cucumber.js testing of HTTP endpoints",
   "author": "Daniel Hilton <daniellawrencehilton@hotmail.co.uk>",
   "license": "MIT",
-  "keywords" : [ "http", "status", "statuscode", "bdd", "cucumber" ],
+  "keywords": [
+    "http",
+    "status",
+    "statuscode",
+    "bdd",
+    "cucumber"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/danielhilton/node-literal-http-status"
@@ -19,8 +25,11 @@
     "coffeescript": "^2.2.4",
     "cucumber": "^4.2.1"
   },
-  "contributors" : [
-    { "name": "Daniel Hilton", "email": "daniellawrencehilton@hotmail.co.uk" }
+  "contributors": [
+    {
+      "name": "Daniel Hilton",
+      "email": "daniellawrencehilton@hotmail.co.uk"
+    }
   ],
   "main": "lib/literal-status.js",
   "scripts": {
