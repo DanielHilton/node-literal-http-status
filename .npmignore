@@ -1,3 +1,4 @@
 features/
 src/
 .git*
+.travis.yml
