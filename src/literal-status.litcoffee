@@ -69,6 +69,7 @@ and match it to the corresponding status code number, in this instance 500.
 [RFC 7235](https://tools.ietf.org/html/rfc7235)
 
     'Unauthorised': 401
+    'Unauthorized': 401
 
     'Payment Required': 402
     'Forbidden': 403
