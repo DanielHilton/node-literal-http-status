@@ -1,6 +1,10 @@
 # literal-http-status
 A literal HTTP status code mapper for BDD style testing
 
+[![Build](https://api.travis-ci.org/repos/DanielHilton/node-literal-http-status.png)](http://travis-ci.org/DanielHilton/node-literal-http-status)
+
+[![NPM](https://nodei.co/npm/literal-http-status.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/literal-http-status/)
+
 I wrote this module after finding that I needed to map human-readable text
 when using cucumber.js in my testing.
 
