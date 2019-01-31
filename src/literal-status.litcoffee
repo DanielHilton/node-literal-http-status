@@ -3,7 +3,6 @@
 This module allows you to take a literal status code name, for example Internal Server Error,
 and match it to the corresponding status code number, in this instance 500.
 
-    module.exports =
 
 # Informational 1xx
 
