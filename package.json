@@ -1,6 +1,6 @@
 {
   "name": "literal-http-status",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "A literal text to status number mapper for node.js, designed for use with Gherkin + Cucumber.js testing of HTTP endpoints",
   "author": "Daniel Hilton <daniellawrencehilton@hotmail.co.uk>",
